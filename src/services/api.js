@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'http://cars-rental.unaux.com',
+    baseURL: 'https://ersandar.in/aakash/kunal/',
 });
 
 // Add a request interceptor to attach the token
